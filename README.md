@@ -13,4 +13,11 @@ Evaluate price per square foot across locations
 
 Identify high-value and affordable areas
 
+## Tools & Techniques Used
 
+Microsoft Excel
+Data Cleaning
+Pivot Tables
+Charts & Visualizations
+Dashboard Creation
+Exploratory Data Analysis (EDA)
