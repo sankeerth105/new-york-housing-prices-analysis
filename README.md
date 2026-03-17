@@ -24,5 +24,4 @@ This project analyzes housing prices in New York to identify pricing patterns, k
 - Price per Square Foot
 - Number of Listings
 - Average Price by Neighborhood
-
-Price Distribution by Property Type
+- Price Distribution by Property Type
