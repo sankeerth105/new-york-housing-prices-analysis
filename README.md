@@ -10,15 +10,10 @@ This project analyzes housing prices in New York to identify pricing patterns, k
 - Identify high-value and affordable areas
 
 ## Tools & Techniques Used
-
-Microsoft Excel
-
-Data Cleaning
-
-Pivot Tables
-
-Charts & Visualizations
-
-Dashboard Creation
-
-Exploratory Data Analysis (EDA)
+- Microsoft Excel
+- Data Cleaning
+- Pivot Tables
+- Charts & Visualizations
+- Dashboard Creation
+- Exploratory Data Analysis (EDA)
+- Power Query
