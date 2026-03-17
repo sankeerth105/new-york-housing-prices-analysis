@@ -18,3 +18,11 @@ This project analyzes housing prices in New York to identify pricing patterns, k
 - Exploratory Data Analysis (EDA)
 - Power Query
 
+## Key Performance Indicators(KPIs)
+- Average Property Price
+- Median Price
+- Price per Square Foot
+- Number of Listings
+- Average Price by Neighborhood
+
+Price Distribution by Property Type
